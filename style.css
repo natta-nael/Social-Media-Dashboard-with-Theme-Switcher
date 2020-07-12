@@ -254,6 +254,12 @@ header .newtoggle::after {
   margin: 60px auto;
 }
 
+.overview-sections h2 {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+}
+
 .overview-sections .overviewclass {
   display: -webkit-box;
   display: -ms-flexbox;
